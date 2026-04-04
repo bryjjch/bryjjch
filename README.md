@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @bryjjch
-- 👀 I’m interested in data science and machine learning.
-- 🌱 I’m currently learning statistics and CS at the UofT.
-- 💞️ I’m looking to collaborate on creating models.
-- 📫 How to reach me on Linkedin https://www.linkedin.com/in/bryan-chen-bb6657218/.
+Hi! I'm Bryan and I'm a student studying statistics and CS at the University of Toronto. 
+I'm currently on coop as a data analyst at Wattpad, and also am interested in the world of machine learning x finance x sports. 
+You can also reach out to me on Linkedin at https://www.linkedin.com/in/bryanjjchen/.
 
 <!---
 bryjjch/bryjjch is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
