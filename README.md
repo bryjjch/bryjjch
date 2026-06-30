@@ -8,10 +8,10 @@
 
 ### About Me
 
-I'm a stats + CS student who likes turning messy data into decisions. Right now I'm working as a data analyst at Wattpad, and outside of work I'm building toward the overlap of ML, quantitative finance, and sports analytics — three areas where good models meet high-stakes, fast-moving data.
+I'm a stats + CS student who enjoys building random tools for stuff I'm interested in. Right now I'm working as a data analyst at Wattpad, and outside of work I'm building toward the overlap of ML, quantitative finance, and sports analytics — three areas where good models meet high-stakes, fast-moving data.
 
 ### My Stats
-[![Bryan's GitHub stats](https://github-readme-stats-jll6dug5r-bryjjchs-projects.vercel.app)]
+[![Bryan's GitHub stats](https://github-readme-stats-bryjjchs-projects.vercel.app/api?username=bryjjch)]
 
 ### What I'm into
 
