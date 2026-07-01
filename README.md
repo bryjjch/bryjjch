@@ -1,14 +1,14 @@
 # Hi, I'm Bryan 👋
 
 📊 Statistics & Computer Science @ **University of Toronto**
-💼 Engineering @ **Wattpad**
+💼 Engineering Intern @ **Wattpad**
 🤖 Exploring the intersection of **Machine Learning × Finance × Sports**
 
 ---
 
 ### About Me
 
-I'm a stats + CS student who enjoys building random tools for stuff I'm interested in. Right now I'm working as an Engineering Intern at Wattpad on the data team, and outside of work I'm building toward the overlap of ML, quantitative finance, and sports analytics — three areas where good models meet high-stakes, fast-moving data.
+I'm a stats + CS student who enjoys building random tools for stuff I'm interested in. Right now I'm working as an Engineering Intern at Wattpad on the data team, and outside of work I'm building toward the overlap of ML, quantitative finance, and sports analytics — three areas where good data = good results. I'm currently building a machine vision project for analyzing tennis swings using MediaPipe Pose Landmarker. Stay tuned for the results!
 
 ### My Stats
 [![Bryan's GitHub stats](https://github-stats-extended-frontend-ashen.vercel.app/api?username=bryjjch)](https://github.com/stats-organization/github-stats-extended)
